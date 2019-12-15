@@ -1,3 +1,5 @@
+# Creating new palettes
+
 To create a new palette just create an empty .pal file and use a text editor to paste the BG, OBJ0 and OBJ1 color codes inside with a text editor.
 
 As and example, a file containing
